@@ -3,27 +3,35 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>unaval</string>
+	<string>crutch</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@interface &lt;#Class_Name#&gt; (Unavailable)
-
-- (instancetype)init NS_UNAVAILABLE;
-+ (instancetype)new NS_UNAVAILABLE;
-
-@end</string>
+	<string>// .___.
+// |   |
+// |   |
+// |___|
+// |   |
+// |   |
+//  \ /
+//   |
+//   |
+//   |
+//   i
+// Note: &lt;#note#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>ABB871CF-ADE9-4015-B0DB-575C5EEFBAE7</string>
+	<string>57ADB1EE-26A1-42C9-95ED-AB8C152DEA39</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>The ASCII Crutch comment.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Unavailable category NSObject</string>
+	<string>Crutch</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
