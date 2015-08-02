@@ -18,7 +18,9 @@ You will never forget to fix some bad things, quick workarounds, or code that sm
 
 ### How it works
 
-Just start typing "crutch" at any code place. 
+Just start typing "crutch" at any code editor place. 
+
+![teaser](/Graphics/crutch_image.png)
 
 ![teaser](/Graphics/crutch_animation.gif)
 
