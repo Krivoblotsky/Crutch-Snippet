@@ -16,6 +16,10 @@ You will never forget to fix some bad things, quick workarounds, or code that sm
     //   i
 ```
 
+### How it works
+
+Just start typing "crutch" at any code place. 
+
 ![teaser](/Graphics/crutch_animation.gif)
 
 ### Installation
