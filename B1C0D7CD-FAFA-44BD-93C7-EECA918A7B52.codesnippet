@@ -3,37 +3,31 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>crutch</string>
+	<string>crutch-horizontal</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>
-// .___.
-// |   |
-// |   |
-// |___|
-// |   |
-// |   |
-//  \ /
-//   |
-//   |
-//   |
-//   i
+// .-------------------------------------.
+// |                     |                \
+// |                     |                 ================== .-!!!
+// |                     |                /
+// ._____________________________________.
 // Note: &lt;#note#&gt;
     </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>57ADB1EE-26A1-42C9-95ED-AB8C152DEA39</string>
+	<string>B1C0D7CD-FAFA-44BD-93C7-EECA918A7B52</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>The ASCII Crutch comment.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Crutch</string>
+	<string>Crutch horizontal</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
