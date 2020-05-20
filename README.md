@@ -1,5 +1,5 @@
 # Crutch-Snippet
-The ASCII Crutch codesnippet for XCode. For those who really needs.
+The ASCII Crutch codesnippet for Xcode. For those who really needs.
 You will never forget to fix some bad things, quick workarounds, or code that smells, just mark it with a crutch.
 
 ```objc
